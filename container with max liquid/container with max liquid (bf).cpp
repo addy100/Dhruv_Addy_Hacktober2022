@@ -1,4 +1,4 @@
-//container with max liquid
+//container with max liquid problem
 //brute force approach
 #include<bits/stdc++.h>
 using namespace std;
