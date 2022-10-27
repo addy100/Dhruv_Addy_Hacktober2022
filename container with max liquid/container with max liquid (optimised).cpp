@@ -1,4 +1,3 @@
-//container with max liquid
 //optimised approach
 #include<bits/stdc++.h>
 using namespace std;
