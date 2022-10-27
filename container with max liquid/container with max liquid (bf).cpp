@@ -1,5 +1,3 @@
-//container with max liquid
-//brute force approach
 #include<bits/stdc++.h>
 using namespace std;
 
